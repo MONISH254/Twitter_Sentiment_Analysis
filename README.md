@@ -1,5 +1,5 @@
 # Twitter Sentiment Analysis
-![Sentiment Analysis](./Images/Sentiment_Analysis.png "Magnifying Glass Zooming Into Sentiments")
+![Sentiment Analysis](./Images/Sentiment_Analysis.PNG "Magnifying Glass Zooming Into Sentiments")
 
 ## Table of Contents
 - [Project Overview](#project-overview)
