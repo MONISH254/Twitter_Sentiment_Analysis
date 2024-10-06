@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 Below is an outline of the project files and directories:
 
-1. [NLP_Sentiment_Analysis Notebook](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/NLP_Sentiment_Analysis.ipynb)
+1. [NLP_Sentiment_Analysis Notebook](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/notebook.ipynb)
 2. [Presentation](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/Presentation.pdf)
 3. [README](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/README.md)
 4. [Requirements](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/requirements.txt)
