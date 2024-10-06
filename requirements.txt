@@ -1,14 +1,34 @@
-pandas==1.5.3
-numpy==1.26.4
-matplotlib==3.7.1
-seaborn==0.12.2
-scikit-learn==1.5.2
-nltk==3.8.1
-imbalanced-learn==0.12.3
-lime==0.2.0.1
-tqdm==4.66.5
-scikit-image==0.24.0
-networkx==3.3
-pillow==10.4.0
-joblib==1.4.2
-threadpoolctl==3.5.0
+# Data manipulation libraries
+pandas==1.5.3               # Used for loading, cleaning, and transforming the dataset (CSV handling, DataFrames)
+numpy==1.26.4               # Numerical computations and array manipulations (supports vectorization)
+
+# Visualization libraries
+matplotlib==3.7.1           # For plotting charts and visualizations like sentiment distribution and tweet length histograms
+seaborn==0.12.2             # Built on top of matplotlib, adds more sophisticated data visualizations, used for cleaner visual plots
+
+# Machine Learning libraries
+scikit-learn==1.5.2         # Core ML library for tasks like train-test split, model development (e.g., Logistic Regression, Naive Bayes), evaluation metrics, and hyperparameter tuning
+
+# NLP-specific libraries
+nltk==3.8.1                 # Used for text preprocessing tasks such as tokenization, stopword removal, and lemmatization
+                            # It also provides additional datasets and functions like POS tagging
+
+# Imbalanced data handling
+imbalanced-learn==0.12.3    # Resampling techniques (e.g., SMOTE) to handle class imbalance in the dataset
+
+# Model interpretability
+lime==0.2.0.1               # Model explainability library used for explaining black-box classifiers like Logistic Regression, Random Forest on text data
+
+# Progress tracking
+tqdm==4.66.5                # Adds a progress bar when iterating through loops for long-running tasks like preprocessing or model training
+
+# Image processing (if used for future applications in NLP or extending to image-based data)
+scikit-image==0.24.0        # Provides algorithms for image preprocessing (e.g., used if expanding into image-based sentiment analysis)
+pillow==10.4.0              # Library for image processing tasks, could be used if extending to image analysis or working with image-based features
+
+# Network and graph processing
+networkx==3.3               # Handles graph-based tasks and network analysis, possibly useful in visualizing relationships between words (e.g., graph-based NLP methods)
+
+# Job scheduling and parallel processing
+joblib==1.4.2               # Used for parallelizing machine learning tasks, speeds up model training by distributing tasks
+threadpoolctl==3.5.0        # Helps in managing the number of threads used during model training (optimizes CPU usage)
