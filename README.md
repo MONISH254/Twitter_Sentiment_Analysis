@@ -58,7 +58,7 @@ Below is an outline of the project files and directories:
 2. [Presentation](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/Presentation.pdf)
 3. [README](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/README.md)
 4. [Requirements](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/requirements.txt)
-5. [NLP_Sentiment_Analysis PDF](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/NLP_Sentiment_Analysis.pdf)
+5. [Notebook PDF](https://github.com/MONISH254/Twitter_Sentiment_Analysis/blob/main/notebook.pdf)
     
 ## Dataset Description
 
