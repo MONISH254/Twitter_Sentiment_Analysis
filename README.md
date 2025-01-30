@@ -203,6 +203,7 @@ Here are some potential areas for future research or improvements to the sentime
 ## Contributors
 1. [Monica Onyango](https://github.com/MONISH254)
 2. [Isaac Ngugi](https://github.com/iamisaackn)
+2. [Isaac Ngugi](https://github.com/iamisaackn)
 3. [Festus Muchemi](https://github.com/festus47)
 4. [Michael Achoki](#)
 5. [Martin Kabare](https://github.com/glk-19)
